@@ -169,6 +169,14 @@ Possible future improvements:
 * add clearer diagnostics mode
 * document custom icon byte arrays
 
+
+And maybe add a small **Related Repositories** section near the bottom:
+
+```md
+## Related Repositories
+
+- [`button_resistor_network`](https://github.com/Phoenixjack/button_resistor_network) - companion helper for resistor-ladder button input
+
 ## License
 
 This project is released under the MIT License.
