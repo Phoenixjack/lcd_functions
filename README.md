@@ -44,7 +44,7 @@ Required:
 The demo sketch currently includes:
 
 ```cpp
-#include <PhoenixJack_button_resistor_network.h>
+#include <button_resistor_network.h>
 #include "lcd_functions.h"
 ```
 
