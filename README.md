@@ -36,17 +36,16 @@ LiquidCrystal lcd(8, 9, 4, 5, 6, 7);
 
 Required:
 
-* Arduino framework
-* `LiquidCrystal`
-* `button_resistor_network`
-* `icons.h`
+- Arduino framework
+- `LiquidCrystal`
+- [`button_resistor_network`](https://github.com/Phoenixjack/button_resistor_network)
+- `icons.h`
 
 The demo sketch currently includes:
 
 ```cpp
 #include <button_resistor_network.h>
 #include "lcd_functions.h"
-```
 
 ## What It Does
 
